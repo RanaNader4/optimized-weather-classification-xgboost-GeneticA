@@ -24,7 +24,7 @@ This project presents an optimized weather type classification system using XGBo
 | Model | Training Accuracy | Validation Accuracy |
 |------|------------------|--------------------|
 | Baseline XGBoost | 90.89% | 90.23% |
-| GA-Optimized XGBoost | 97.71% | 92.31% |
+| GA-Optimized XGBoost | 96.55% | 92.12% |
 
 ## 🖥️ Streamlit GUI
 The project includes an interactive Streamlit web application that allows users to input weather features and receive real-time predictions.
